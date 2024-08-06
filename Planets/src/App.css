@@ -39,10 +39,14 @@
   
   overflow:hidden;
   margin:20px;
-  margin-right: auto;
+  margin-right:100px;
   margin-left: auto;
 
   
+}
+.card:hover{
+  border-color: #bde6e6; /* Change to your desired hover color */
+    transform: scale(1.2);
 }
 
 .read-the-docs {

@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 
 
-export  default function Coruscant(props) 
+export  default function Bespin(props) 
 {
     const location =useLocation();
     let result=location.state.results6;

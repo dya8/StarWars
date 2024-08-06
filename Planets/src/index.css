@@ -5,8 +5,8 @@
 
   color-scheme: light dark;
   color: #fffefe;
-  background-color: hsl(0, 0%, 97%);
-
+  /*background-color: hsl(0, 0%, 97%);*/
+  background-image:url("assets/low-angle-shot-mesmerizing-starry-sky.jpg");
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
